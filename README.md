@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/Kiplagat8/Kiplagat8/main/ai-banner.png" width="100%"/>
+</p>
+
 <h1 align="center">Jambo, I'm Kenneth Kiplagat</h1>
 
 <h3 align="center">Data Scientist • Machine Learning Engineer • Python Developer</h3>
