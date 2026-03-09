@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kiplagat8/Kiplagat8/main/ai-banner.png.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Kiplagat8/Kiplagat8/main/ai-banner.png" width="100%"/>
 </p>
 
 <h1 align="center">Jambo, I'm Kenneth Kiplagat</h1>
