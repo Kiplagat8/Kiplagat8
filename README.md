@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Kenneth Kiplagat</h1>
+<h1 align="center">Jambo, I'm Kenneth Kiplagat</h1>
 
 <h3 align="center">Data Scientist • Machine Learning Engineer • Python Developer</h3>
 
