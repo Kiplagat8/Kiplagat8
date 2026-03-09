@@ -25,25 +25,27 @@ I enjoy building machine learning pipelines, exploring large scale datasets and 
 </p>
 
 ##  Tech Stack & Tools
-###  Programming Languages
+### Programming Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,r,cpp,bash,linux&perline=10" />
 </p>
+
+Python • SQL • R • C++ • Bash
 
 ### Data Science & Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Optuna-0A0A0A?style=for-the-badge"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,sklearn&perline=10" />
 </p>
+
+NumPy • Pandas • SciPy  
+Scikit-Learn  
+XGBoost • LightGBM • CatBoost  
+Optuna • Hyperopt  
+Feature Engineering Pipelines  
+Dimensionality Reduction (PCA, t-SNE, SVD)  
+Cross Validation • Model Evaluation
 
 ###  Deep Learning
 
@@ -144,10 +146,21 @@ I regularly experiment with deep neural architectures, probabilistic models and 
 I believe that data becomes valuable only when transformed into knowledge.  
 My goal is to design intelligent systems capable of extracting meaningful structure from complex information and translating it into decisions, predictions and insight.
 
-## 🚀 Highlighted Work
+### 🤖 Deep Learning & Neural Architectures
 
 <p align="center">
-<a href="https://github.com/Kiplagat8/dsft13hybrid_phase3_project_group4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kiplagat8&repo=dsft13hybrid_phase3_project_group4&theme=tokyonight"/>
-</a>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras&perline=10" />
+</p>
+
+Deep learning areas of work:
+
+• Convolutional Neural Networks (CNNs)  
+• Computer Vision architectures  
+• Neural network optimisation  
+• Representation learning  
+• Transfer learning techniques
+### ⚙️ Engineering & Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws&perline=8" />
 </p>
