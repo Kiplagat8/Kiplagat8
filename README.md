@@ -19,3 +19,12 @@ I enjoy building machine learning pipelines, exploring large scale datasets and 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Kiplagat8&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
+##  Tech Stack & Tools
+###  Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
