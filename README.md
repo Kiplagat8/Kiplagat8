@@ -127,3 +127,15 @@ I regularly experiment with deep neural architectures, probabilistic models and 
 - Automated machine learning pipelines for experimentation
 - Scalable data processing workflows for machine learning systems
 - Interactive data applications for model exploration and visualisation
+
+
+## Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+## Engineering Philosophy
+
+I believe that data becomes valuable only when transformed into knowledge.  
+My goal is to design intelligent systems capable of extracting meaningful structure from complex information and translating it into decisions, predictions and insight.
