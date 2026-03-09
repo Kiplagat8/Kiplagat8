@@ -90,6 +90,10 @@ I enjoy building machine learning pipelines, exploring large scale datasets and 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284106-7c0c84fb-2a47-4f10-b8b6-3a0f4b8e0f62.gif"/>
+</p>
+
 ## Research & Engineering Focus
 
 - Designing deep learning architectures for large scale pattern recognition
