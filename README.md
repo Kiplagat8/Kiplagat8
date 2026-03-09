@@ -16,3 +16,6 @@ My passion lies in transforming raw datasets into predictive models, uncovering 
 
 I enjoy building machine learning pipelines, exploring large scale datasets and pushing the boundaries of what data driven systems can achieve.
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Kiplagat8&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
