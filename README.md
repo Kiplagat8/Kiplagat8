@@ -91,7 +91,7 @@ I enjoy building machine learning pipelines, exploring large scale datasets and 
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284106-7c0c84fb-2a47-4f10-b8b6-3a0f4b8e0f62.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284111-1e8e3a21-f2a6-4f67-a39b-6e26f1c8e4c1.gif">
 </p>
 
 ## Research & Engineering Focus
