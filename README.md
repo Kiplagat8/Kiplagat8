@@ -143,3 +143,11 @@ I regularly experiment with deep neural architectures, probabilistic models and 
 
 I believe that data becomes valuable only when transformed into knowledge.  
 My goal is to design intelligent systems capable of extracting meaningful structure from complex information and translating it into decisions, predictions and insight.
+
+## 🚀 Highlighted Work
+
+<p align="center">
+<a href="https://github.com/Kiplagat8/dsft13hybrid_phase3_project_group4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kiplagat8&repo=dsft13hybrid_phase3_project_group4&theme=tokyonight"/>
+</a>
+</p>
