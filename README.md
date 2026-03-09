@@ -85,3 +85,41 @@ I enjoy building machine learning pipelines, exploring large scale datasets and 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 </p>
+
+## Research & Engineering Focus
+
+- Designing deep learning architectures for large scale pattern recognition
+- Building and optimising convolutional neural networks for image based learning tasks
+- Developing natural language processing pipelines for semantic analysis and text classification
+- Applying advanced feature engineering and dimensionality reduction techniques to high dimensional datasets
+- Experimenting with model optimisation strategies including hyperparameter tuning and regularisation
+- Architecting reproducible machine learning workflows from data ingestion to model deployment
+
+## Advanced Machine Learning Work
+
+My work focuses on building intelligent systems that learn from complex data.  
+I regularly experiment with deep neural architectures, probabilistic models and scalable machine learning pipelines.
+
+<b>Key areas of interest include:</b>
+
+- Deep learning for computer vision using convolutional neural networks
+- Natural language processing including sentiment analysis and semantic modelling
+- Model optimisation through hyperparameter search and architecture tuning
+- Representation learning and feature extraction from high dimensional datasets
+- End to end machine learning pipelines for data driven decision systems
+
+##  Machine Learning Experiments
+
+- Training convolutional neural networks for image classification and pattern recognition
+- Natural language processing experiments involving tokenisation, embeddings and text classification
+- Comparative evaluation of machine learning algorithms across multiple datasets
+- Hyperparameter optimisation using automated search strategies
+- Feature importance analysis and interpretability techniques for model transparency
+
+## Current Development
+
+- Deep learning architectures for computer vision applications
+- NLP models for large scale text analysis
+- Automated machine learning pipelines for experimentation
+- Scalable data processing workflows for machine learning systems
+- Interactive data applications for model exploration and visualisation
